@@ -1,5 +1,3 @@
-# 💫 About Me
-
 # Hello there 👋
 
 I'm a solution-focused developer dedicated to crafting elegant architectures that directly address real-world challenges. I transform complex requirements into robust, scalable solutions while continuously exploring technologies that solve meaningful problems.
@@ -15,15 +13,6 @@ I'm a solution-focused developer dedicated to crafting elegant architectures tha
 ## 🛠️ My Philosophy
 
 I believe great solutions should solve real problems, not create new ones. By blending practical thinking with creative ideas, I develop systems that expand what's possible while delivering immediate value. My approach balances innovation with pragmatism, ensuring my work solves genuine problems in meaningful ways.
-
-## 🌱 Current Learning Journey
-
-- Distributed systems architecture
-- PostgreSQL internals
-- Practical applications of generative AI in development workflows.
-- Reinforcement learning.
-- Performance optimization techniques.
-- Development practices for long-term maintainability.
 
 ## 💬 Let's Collaborate
 
@@ -42,7 +31,6 @@ I thrive at the intersection of technical excellence and practical outcomes. If 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
