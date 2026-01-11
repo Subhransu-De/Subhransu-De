@@ -51,8 +51,3 @@ I thrive at the intersection of technical excellence and practical outcomes. If 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Snyk](https://img.shields.io/badge/Snyk-8F238A?style=for-the-badge&logo=snyk&logoColor=white)
-
-# ✨ Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu-De&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
