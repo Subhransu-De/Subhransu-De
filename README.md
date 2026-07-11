@@ -1,50 +1,48 @@
-# Hello there 👋
+# Hi, I'm Subhransu 👋
 
-I'm a solution-focused developer dedicated to crafting elegant architectures that directly address real-world challenges. I transform complex requirements into robust, scalable solutions while continuously exploring technologies that solve meaningful problems.
+Software engineer from India. I build backend systems in **Java/Spring** and **Python/FastAPI** — and I care as much about *how* software gets built as what gets built.
 
-## 🔭 My Approach & Focus
+🌐 [subhransu.de](https://subhransu.de/)
 
-- **Architecting dynamic systems** that adapt to diverse user needs and evolving requirements
-- **Building AI-powered tools** that eliminate repetitive tasks and unlock human creativity
-- **Creating software with purpose** - every feature aligned with stakeholder objectives
-- **Evaluating emerging tech** through the lens of practical problem-solving
-- **Fostering cross-team collaboration** to develop holistic solutions
+## ⚙️ How I work
 
-## 🛠️ My Philosophy
+Much of my time lately goes into an AI-assisted development workflow I'm building for myself - custom harnesses, skills and dynamic workflows. The speed is real, but what I actually optimize for is control: every piece of code that comes out of it is still something I shape, question and stand behind.
 
-I believe great solutions should solve real problems, not create new ones. By blending practical thinking with creative ideas, I develop systems that expand what's possible while delivering immediate value. My approach balances innovation with pragmatism, ensuring my work solves genuine problems in meaningful ways.
+The unexpected payoff is range. With the mechanical work absorbed, it's become much cheaper to step into unfamiliar territory, learn it properly and carry that understanding into the next problem.
 
-## 💬 Let's Collaborate
+## 🔨 Things I've built
 
-I thrive at the intersection of technical excellence and practical outcomes. If you're working on challenging problems that need thoughtful technical solutions, let's connect and build something impactful together.
+| Project | What it is |
+|---|---|
+| [FastAPI-Template](https://github.com/Subhransu-De/FastAPI-Template) | Opinionated FastAPI starter — async SQLAlchemy 2.0, Alembic, Pydantic v2, `uv`, Docker, pytest, CI/CD pre-wired. Clone it and skip a week of setup. |
+| [QueryDSL](https://github.com/Subhransu-De/QueryDSL) | Type-safe query building on the JVM, explored hands-on. |
+| [Docker-Bake](https://github.com/Subhransu-De/Docker-Bake) | Multi-target Docker builds with Bake, as working examples. |
+| [FasterXML-Jackson-Examples](https://github.com/Subhransu-De/FasterXML-Jackson-Examples) | Spring Boot demos of Jackson annotations that actually show up in real codebases. |
+| [qBittorrent-nox-starter](https://github.com/Subhransu-De/qBittorrent-nox-starter) | Opinionated setup for qBittorrent-nox — deployment and performance tuning done for you. |
 
-## 🌐 Socials
+A few bigger things are still cooking in private repos — they'll appear here when they're ready.
+
+## 🧭 Right now
+
+- 🤖 Refining my AI-assisted dev workflow, one tool at a time
+- 📚 Working toward AWS certifications
+- 🦀 Learning Rust on the side
+
+## 🛠️ Tools I reach for
+
+**Languages** — Java · Python · TypeScript
+
+**Backend** — Spring Boot · Hibernate · FastAPI · SQLAlchemy
+
+**Data** — PostgreSQL · MongoDB · Redis
+
+**Infra & Quality** — Docker · AWS · Terraform · Jenkins · GitLab CI · SonarQube · Snyk
+
+## 📫 Find me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhransu.de.official@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhransu-de)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Subhransu_D)
 [![Bluesky](https://img.shields.io/badge/Bluesky-3686f7?logo=icloud&logoColor=white)](https://bsky.app/profile/subhransude.bsky.social)
 
-# 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blue?logo=sqlalchemy&style=for-the-badge)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Snyk](https://img.shields.io/badge/Snyk-8F238A?style=for-the-badge&logo=snyk&logoColor=white)
+*If you're building something and want a second pair of eyes on the backend or the tooling, my inbox is open.*
