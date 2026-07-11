@@ -1,4 +1,4 @@
-# Hi, I'm Subhransu 👋
+# Hi, I'm Subhransu ヾ(•‿•)
 
 Software engineer from India. I build backend systems in **Java/Spring** and **Python/FastAPI** — and I care as much about *how* software gets built as what gets built.
 
@@ -30,13 +30,13 @@ A few bigger things are still cooking in private repos — they'll appear here w
 
 ## 🛠️ Tools I reach for
 
-**Languages** — Java · Python · TypeScript
+**Languages** » Java · Python · TypeScript
 
-**Backend** — Spring Boot · Hibernate · FastAPI · SQLAlchemy
+**Backend** » Spring Boot · Hibernate · FastAPI · SQLAlchemy
 
-**Data** — PostgreSQL · MongoDB · Redis
+**Data** » PostgreSQL · MongoDB · Redis
 
-**Infra & Quality** — Docker · AWS · Terraform · Jenkins · GitLab CI · SonarQube · Snyk
+**Infra & Quality** » Docker · AWS · Terraform · Jenkins · GitLab CI · SonarQube · Snyk
 
 ## 📫 Find me
 
