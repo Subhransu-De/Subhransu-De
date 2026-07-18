@@ -1,14 +1,12 @@
 # Hi, I'm Subhransu ヾ(•‿•)
 
-Software engineer from India. I build backend systems in **Java/Spring** and **Python/FastAPI** — and I care as much about *how* software gets built as what gets built.
+Software engineer from India. I build cool stuff I like.
 
 🌐 [subhransu.de](https://subhransu.de/)
 
 ## ⚙️ How I work
 
-Much of my time lately goes into an AI-assisted development workflow I'm building for myself - custom harnesses, skills and dynamic workflows. The speed is real, but what I actually optimize for is control: every piece of code that comes out of it is still something I shape, question and stand behind.
-
-The unexpected payoff is range. With the mechanical work absorbed, it's become much cheaper to step into unfamiliar territory, learn it properly and carry that understanding into the next problem.
+Lately, I've been spending a lot of my time building an AI-assisted development workflow for myself, using custom harnesses, skills and dynamic workflows. The speed is real, but what matters more to me is staying in control of the process. I shape and question for every line of code that comes out of it.
 
 ## 🔨 Things I've built
 
@@ -20,7 +18,7 @@ The unexpected payoff is range. With the mechanical work absorbed, it's become m
 | [FasterXML-Jackson-Examples](https://github.com/Subhransu-De/FasterXML-Jackson-Examples) | Spring Boot demos of Jackson annotations that actually show up in real codebases. |
 | [qBittorrent-nox-starter](https://github.com/Subhransu-De/qBittorrent-nox-starter) | Opinionated setup for qBittorrent-nox — deployment and performance tuning done for you. |
 
-A few bigger things are still cooking in private repos — they'll appear here when they're ready.
+A few bigger things are still cooking in private repos - they'll appear here when they're ready.
 
 ## 🧭 Right now
 
